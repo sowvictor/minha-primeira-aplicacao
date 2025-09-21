@@ -1,7 +1,6 @@
 sowvictor\controllers\MathController.class
 sowvictor\model\Greeting.class
+sowvictor\model\Person.class
 sowvictor\aplicacao.class
-sowvictor\exception\hadler\CustomEntityResponseHadler.class
+sowvictor\PersonServices.class
 sowvictor\controllers\GreetingController.class
-sowvictor\exception\ExecptionResponse.class
-sowvictor\exception\UnsupportedMathOparationException.class
